@@ -14,10 +14,12 @@
 [opera-icon]: https://github.com/alrra/browser-logos/blob/main/src/opera/opera_64x64.png
 [safari-icon]: https://github.com/alrra/browser-logos/blob/main/src/safari/safari_64x64.png
 
-# Next TypeScript & Shadcn/ui — Template
+# Next TypeScript & Shadcn/ui && NextUI — Template
+
+**This repository is fork from [doinel1a/next-ts-shadcn-next-ui](https://github.com/doinel1a/next-ts-shadcn-next-ui).**
 
 This development starter template is the ultimate solution to help you getting started on your project in no time, without the hassle of setting up and configuring your development environment from scratch each time you start working.
-This repository is ideal for front-end developers who want to build modern, fast and reliable web applications with the latest cutting edge technologies such as **Next.js**, **TypeScript**, **Shadcn/ui**, **TailwindCSS**, **ESLint**, **Prettier**, **Husky** and much more!
+This repository is ideal for front-end developers who want to build modern, fast and reliable web applications with the latest cutting edge technologies such as **Next.js**, **TypeScript**, **Shadcn/ui**, **TailwindCSS**, **ESLint**, **Prettier**, **Husky**, **NextUI** and much more!
 
 ---
 
@@ -51,7 +53,7 @@ This repository is ideal for front-end developers who want to build modern, fast
   - click **"Use this template"** &nbsp; or &nbsp; **"Fork"** button <br /> alternately
   - **clone** the repository through your terminal: <br />
     ```bash
-    git clone https://github.com/doinel1a/next-ts-shadcn-ui YOUR-PROJECT-NAME
+    git clone https://github.com/le0zh0u/nextui-shadcn-starter YOUR-PROJECT-NAME
     ```
 - Open your terminal or code editor to the path your project is located, and run:
 
@@ -81,6 +83,7 @@ This repository comes 🔋 packed with:
 - **Commitlint**;
 - **Lint staged**;
 - **Playwright**;
+- **NextUI**;
 
 [Back to :arrow_up:](#next-typescript--shadcnui--template "Back to 'Table of contents' section")
 
