@@ -55,6 +55,11 @@ This repository is ideal for front-end developers who want to build modern, fast
     ```bash
     git clone https://github.com/le0zh0u/nextui-shadcn-starter YOUR-PROJECT-NAME
     ```
+  - update git remote origin
+    ```bash
+    git remote remove origin
+    git remote add origin YOUR-REPOSITORY-URL
+    ```
 - Open your terminal or code editor to the path your project is located, and run:
 
   |                                                  | **npm**           | **pnpm**       | **yarn**       |
