@@ -14,9 +14,13 @@
 [opera-icon]: https://github.com/alrra/browser-logos/blob/main/src/opera/opera_64x64.png
 [safari-icon]: https://github.com/alrra/browser-logos/blob/main/src/safari/safari_64x64.png
 
-# Next TypeScript & Shadcn/ui & NextUI — Template
+# Changes
 
 **This repository is fork from [doinel1a/next-ts-shadcn-next-ui](https://github.com/doinel1a/next-ts-shadcn-next-ui).**
+
+** Landing page code is from [gonzalochale/nextui-saas-landing-template](https://github.com/gonzalochale/nextui-saas-landing-template).**
+
+# Next TypeScript & Shadcn/ui & NextUI — Template
 
 This development starter template is the ultimate solution to help you getting started on your project in no time, without the hassle of setting up and configuring your development environment from scratch each time you start working.
 This repository is ideal for front-end developers who want to build modern, fast and reliable web applications with the latest cutting edge technologies such as **Next.js**, **TypeScript**, **Shadcn/ui**, **TailwindCSS**, **ESLint**, **Prettier**, **Husky**, **NextUI** and much more!

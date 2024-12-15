@@ -10,7 +10,9 @@ type TRootProvider = PropsWithChildren;
 export default function RootProvider({ children }: TRootProvider) {
   return (
     <NextUiProvider>
-      <ThemeProvider>{children}</ThemeProvider>
+      <ThemeProvider attribute='class' defaultTheme='dark'>
+        {children}
+      </ThemeProvider>
     </NextUiProvider>
   );
 }
